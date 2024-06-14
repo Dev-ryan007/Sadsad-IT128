@@ -1,2 +1,3 @@
-% Hello-GitHub-Repository
-# Sadsad-IT128
+Dave Ryan P. Sadsad
+IT128-FOPI01
+BSIT
